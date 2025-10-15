@@ -1,0 +1,3 @@
+# Content of .gitignore
+_build/
+__pycache__/
